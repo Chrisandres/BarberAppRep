@@ -22,7 +22,7 @@
         android:id="@+id/logoBarber"
         android:layout_width="match_parent"
         android:layout_height="250dp"
-        android:src="@mipmap/BarberAppLogo1" />
+        android:src="@mipmap/barberapplogo1" />
 
     <EditText
         android:id="@+id/txtNombre"
