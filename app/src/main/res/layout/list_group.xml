@@ -12,6 +12,6 @@
         android:textStyle="bold"
         android:text="Grupo"
         android:textColor="#FFF"
-        android:background="#04B4AE"/>
+        android:background="@color/colorButtons"/>
 
 </LinearLayout>
